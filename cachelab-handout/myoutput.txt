@@ -1,0 +1,1309 @@
+### Cache ###
+[Set:0] (valid=0 label=0 timestamp=0 data=whatever),(valid=0 label=0 timestamp=0 data=whatever),
+[Set:1] (valid=0 label=0 timestamp=0 data=whatever),(valid=0 label=0 timestamp=0 data=whatever),
+[Set:2] (valid=0 label=0 timestamp=0 data=whatever),(valid=0 label=0 timestamp=0 data=whatever),
+[Set:3] (valid=0 label=0 timestamp=0 data=whatever),(valid=0 label=0 timestamp=0 data=whatever),
+S 600aa0,1 miss 
+### Cache ###
+[Set:0] (valid=1 label=196693 timestamp=0 data=whatever),(valid=0 label=0 timestamp=0 data=whatever),
+[Set:1] (valid=0 label=0 timestamp=0 data=whatever),(valid=0 label=0 timestamp=0 data=whatever),
+[Set:2] (valid=0 label=0 timestamp=0 data=whatever),(valid=0 label=0 timestamp=0 data=whatever),
+[Set:3] (valid=0 label=0 timestamp=0 data=whatever),(valid=0 label=0 timestamp=0 data=whatever),
+S 7ff000398,8 miss 
+### Cache ###
+[Set:0] (valid=1 label=196693 timestamp=0 data=whatever),(valid=0 label=0 timestamp=0 data=whatever),
+[Set:1] (valid=0 label=0 timestamp=0 data=whatever),(valid=0 label=0 timestamp=0 data=whatever),
+[Set:2] (valid=0 label=0 timestamp=0 data=whatever),(valid=0 label=0 timestamp=0 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=0 label=0 timestamp=1 data=whatever),
+S 7ff000390,8 miss 
+### Cache ###
+[Set:0] (valid=1 label=196693 timestamp=0 data=whatever),(valid=0 label=0 timestamp=0 data=whatever),
+[Set:1] (valid=0 label=0 timestamp=0 data=whatever),(valid=0 label=0 timestamp=0 data=whatever),
+[Set:2] (valid=1 label=1073217564 timestamp=2 data=whatever),(valid=0 label=0 timestamp=2 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=0 label=0 timestamp=1 data=whatever),
+S 7ff000378,8 miss 
+### Cache ###
+[Set:0] (valid=1 label=196693 timestamp=0 data=whatever),(valid=0 label=0 timestamp=0 data=whatever),
+[Set:1] (valid=0 label=0 timestamp=0 data=whatever),(valid=0 label=0 timestamp=0 data=whatever),
+[Set:2] (valid=1 label=1073217564 timestamp=2 data=whatever),(valid=0 label=0 timestamp=2 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+S 7ff000370,8 miss 
+### Cache ###
+[Set:0] (valid=1 label=196693 timestamp=0 data=whatever),(valid=0 label=0 timestamp=0 data=whatever),
+[Set:1] (valid=0 label=0 timestamp=0 data=whatever),(valid=0 label=0 timestamp=0 data=whatever),
+[Set:2] (valid=1 label=1073217564 timestamp=2 data=whatever),(valid=1 label=1073217563 timestamp=2 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+S 7ff000384,4 miss 
+### Cache ###
+[Set:0] (valid=1 label=196693 timestamp=0 data=whatever),(valid=1 label=1073217564 timestamp=0 data=whatever),
+[Set:1] (valid=0 label=0 timestamp=0 data=whatever),(valid=0 label=0 timestamp=0 data=whatever),
+[Set:2] (valid=1 label=1073217564 timestamp=2 data=whatever),(valid=1 label=1073217563 timestamp=2 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+L 7ff000384,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=196693 timestamp=0 data=whatever),(valid=1 label=1073217564 timestamp=0 data=whatever),
+[Set:1] (valid=0 label=0 timestamp=0 data=whatever),(valid=0 label=0 timestamp=0 data=whatever),
+[Set:2] (valid=1 label=1073217564 timestamp=2 data=whatever),(valid=1 label=1073217563 timestamp=2 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+S 7ff000388,4 miss 
+### Cache ###
+[Set:0] (valid=1 label=196693 timestamp=0 data=whatever),(valid=1 label=1073217564 timestamp=0 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=0 label=0 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=1073217564 timestamp=2 data=whatever),(valid=1 label=1073217563 timestamp=2 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+L 7ff000388,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=196693 timestamp=0 data=whatever),(valid=1 label=1073217564 timestamp=0 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=0 label=0 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=1073217564 timestamp=2 data=whatever),(valid=1 label=1073217563 timestamp=2 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+L 7ff000384,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=196693 timestamp=0 data=whatever),(valid=1 label=1073217564 timestamp=0 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=0 label=0 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=1073217564 timestamp=2 data=whatever),(valid=1 label=1073217563 timestamp=2 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+L 7ff000378,8 hit 
+### Cache ###
+[Set:0] (valid=1 label=196693 timestamp=0 data=whatever),(valid=1 label=1073217564 timestamp=0 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=0 label=0 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=1073217564 timestamp=2 data=whatever),(valid=1 label=1073217563 timestamp=2 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+L 7ff000388,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=196693 timestamp=0 data=whatever),(valid=1 label=1073217564 timestamp=0 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=0 label=0 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=1073217564 timestamp=2 data=whatever),(valid=1 label=1073217563 timestamp=2 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+L 600a20,4 miss eviction 
+### Cache ###
+[Set:0] (valid=1 label=196689 timestamp=7 data=whatever),(valid=1 label=1073217564 timestamp=7 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=0 label=0 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=1073217564 timestamp=2 data=whatever),(valid=1 label=1073217563 timestamp=2 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+S 7ff00038c,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=196689 timestamp=7 data=whatever),(valid=1 label=1073217564 timestamp=7 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=0 label=0 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=1073217564 timestamp=2 data=whatever),(valid=1 label=1073217563 timestamp=2 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+L 7ff000388,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=196689 timestamp=7 data=whatever),(valid=1 label=1073217564 timestamp=7 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=0 label=0 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=1073217564 timestamp=2 data=whatever),(valid=1 label=1073217563 timestamp=2 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+L 7ff000370,8 hit 
+### Cache ###
+[Set:0] (valid=1 label=196689 timestamp=7 data=whatever),(valid=1 label=1073217564 timestamp=7 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=0 label=0 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=1073217564 timestamp=2 data=whatever),(valid=1 label=1073217563 timestamp=2 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+L 7ff000384,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=196689 timestamp=7 data=whatever),(valid=1 label=1073217564 timestamp=7 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=0 label=0 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=1073217564 timestamp=2 data=whatever),(valid=1 label=1073217563 timestamp=2 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+L 7ff00038c,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=196689 timestamp=7 data=whatever),(valid=1 label=1073217564 timestamp=7 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=0 label=0 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=1073217564 timestamp=2 data=whatever),(valid=1 label=1073217563 timestamp=2 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+S 600a60,4 miss eviction 
+### Cache ###
+[Set:0] (valid=1 label=196689 timestamp=7 data=whatever),(valid=1 label=196691 timestamp=7 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=0 label=0 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=1073217564 timestamp=2 data=whatever),(valid=1 label=1073217563 timestamp=2 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+M 7ff000388,4 hit hit 
+### Cache ###
+[Set:0] (valid=1 label=196689 timestamp=7 data=whatever),(valid=1 label=196691 timestamp=7 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=0 label=0 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=1073217564 timestamp=2 data=whatever),(valid=1 label=1073217563 timestamp=2 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+L 7ff000388,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=196689 timestamp=7 data=whatever),(valid=1 label=196691 timestamp=7 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=0 label=0 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=1073217564 timestamp=2 data=whatever),(valid=1 label=1073217563 timestamp=2 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+L 7ff000384,4 miss eviction 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=9 data=whatever),(valid=1 label=196691 timestamp=9 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=0 label=0 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=1073217564 timestamp=2 data=whatever),(valid=1 label=1073217563 timestamp=2 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+L 7ff000378,8 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=9 data=whatever),(valid=1 label=196691 timestamp=9 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=0 label=0 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=1073217564 timestamp=2 data=whatever),(valid=1 label=1073217563 timestamp=2 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+L 7ff000388,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=9 data=whatever),(valid=1 label=196691 timestamp=9 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=0 label=0 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=1073217564 timestamp=2 data=whatever),(valid=1 label=1073217563 timestamp=2 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+L 600a24,4 miss eviction 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=9 data=whatever),(valid=1 label=196689 timestamp=9 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=0 label=0 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=1073217564 timestamp=2 data=whatever),(valid=1 label=1073217563 timestamp=2 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+S 7ff00038c,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=9 data=whatever),(valid=1 label=196689 timestamp=9 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=0 label=0 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=1073217564 timestamp=2 data=whatever),(valid=1 label=1073217563 timestamp=2 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+L 7ff000388,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=9 data=whatever),(valid=1 label=196689 timestamp=9 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=0 label=0 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=1073217564 timestamp=2 data=whatever),(valid=1 label=1073217563 timestamp=2 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+L 7ff000370,8 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=9 data=whatever),(valid=1 label=196689 timestamp=9 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=0 label=0 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=1073217564 timestamp=2 data=whatever),(valid=1 label=1073217563 timestamp=2 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+L 7ff000384,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=9 data=whatever),(valid=1 label=196689 timestamp=9 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=0 label=0 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=1073217564 timestamp=2 data=whatever),(valid=1 label=1073217563 timestamp=2 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+L 7ff00038c,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=9 data=whatever),(valid=1 label=196689 timestamp=9 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=0 label=0 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=1073217564 timestamp=2 data=whatever),(valid=1 label=1073217563 timestamp=2 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+S 600a70,4 miss eviction 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=9 data=whatever),(valid=1 label=196689 timestamp=9 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=0 label=0 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196691 timestamp=11 data=whatever),(valid=1 label=1073217563 timestamp=11 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+M 7ff000388,4 hit hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=9 data=whatever),(valid=1 label=196689 timestamp=9 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=0 label=0 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196691 timestamp=11 data=whatever),(valid=1 label=1073217563 timestamp=11 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+L 7ff000388,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=9 data=whatever),(valid=1 label=196689 timestamp=9 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=0 label=0 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196691 timestamp=11 data=whatever),(valid=1 label=1073217563 timestamp=11 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+L 7ff000384,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=9 data=whatever),(valid=1 label=196689 timestamp=9 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=0 label=0 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196691 timestamp=11 data=whatever),(valid=1 label=1073217563 timestamp=11 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+L 7ff000378,8 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=9 data=whatever),(valid=1 label=196689 timestamp=9 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=0 label=0 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196691 timestamp=11 data=whatever),(valid=1 label=1073217563 timestamp=11 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+L 7ff000388,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=9 data=whatever),(valid=1 label=196689 timestamp=9 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=0 label=0 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196691 timestamp=11 data=whatever),(valid=1 label=1073217563 timestamp=11 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+L 600a28,4 miss 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=9 data=whatever),(valid=1 label=196689 timestamp=9 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196691 timestamp=11 data=whatever),(valid=1 label=1073217563 timestamp=11 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+S 7ff00038c,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=9 data=whatever),(valid=1 label=196689 timestamp=9 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196691 timestamp=11 data=whatever),(valid=1 label=1073217563 timestamp=11 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+L 7ff000388,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=9 data=whatever),(valid=1 label=196689 timestamp=9 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196691 timestamp=11 data=whatever),(valid=1 label=1073217563 timestamp=11 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+L 7ff000370,8 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=9 data=whatever),(valid=1 label=196689 timestamp=9 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196691 timestamp=11 data=whatever),(valid=1 label=1073217563 timestamp=11 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+L 7ff000384,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=9 data=whatever),(valid=1 label=196689 timestamp=9 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196691 timestamp=11 data=whatever),(valid=1 label=1073217563 timestamp=11 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+L 7ff00038c,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=9 data=whatever),(valid=1 label=196689 timestamp=9 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196691 timestamp=11 data=whatever),(valid=1 label=1073217563 timestamp=11 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+S 600a80,4 miss eviction 
+### Cache ###
+[Set:0] (valid=1 label=196692 timestamp=13 data=whatever),(valid=1 label=196689 timestamp=13 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196691 timestamp=11 data=whatever),(valid=1 label=1073217563 timestamp=11 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+M 7ff000388,4 hit hit 
+### Cache ###
+[Set:0] (valid=1 label=196692 timestamp=13 data=whatever),(valid=1 label=196689 timestamp=13 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196691 timestamp=11 data=whatever),(valid=1 label=1073217563 timestamp=11 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+L 7ff000388,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=196692 timestamp=13 data=whatever),(valid=1 label=196689 timestamp=13 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196691 timestamp=11 data=whatever),(valid=1 label=1073217563 timestamp=11 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+L 7ff000384,4 miss eviction 
+### Cache ###
+[Set:0] (valid=1 label=196692 timestamp=13 data=whatever),(valid=1 label=1073217564 timestamp=13 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196691 timestamp=11 data=whatever),(valid=1 label=1073217563 timestamp=11 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+L 7ff000378,8 hit 
+### Cache ###
+[Set:0] (valid=1 label=196692 timestamp=13 data=whatever),(valid=1 label=1073217564 timestamp=13 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196691 timestamp=11 data=whatever),(valid=1 label=1073217563 timestamp=11 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+L 7ff000388,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=196692 timestamp=13 data=whatever),(valid=1 label=1073217564 timestamp=13 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196691 timestamp=11 data=whatever),(valid=1 label=1073217563 timestamp=11 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+L 600a2c,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=196692 timestamp=13 data=whatever),(valid=1 label=1073217564 timestamp=13 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196691 timestamp=11 data=whatever),(valid=1 label=1073217563 timestamp=11 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+S 7ff00038c,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=196692 timestamp=13 data=whatever),(valid=1 label=1073217564 timestamp=13 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196691 timestamp=11 data=whatever),(valid=1 label=1073217563 timestamp=11 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+L 7ff000388,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=196692 timestamp=13 data=whatever),(valid=1 label=1073217564 timestamp=13 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196691 timestamp=11 data=whatever),(valid=1 label=1073217563 timestamp=11 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+L 7ff000370,8 hit 
+### Cache ###
+[Set:0] (valid=1 label=196692 timestamp=13 data=whatever),(valid=1 label=1073217564 timestamp=13 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196691 timestamp=11 data=whatever),(valid=1 label=1073217563 timestamp=11 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+L 7ff000384,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=196692 timestamp=13 data=whatever),(valid=1 label=1073217564 timestamp=13 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196691 timestamp=11 data=whatever),(valid=1 label=1073217563 timestamp=11 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+L 7ff00038c,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=196692 timestamp=13 data=whatever),(valid=1 label=1073217564 timestamp=13 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196691 timestamp=11 data=whatever),(valid=1 label=1073217563 timestamp=11 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+S 600a90,4 miss eviction 
+### Cache ###
+[Set:0] (valid=1 label=196692 timestamp=13 data=whatever),(valid=1 label=1073217564 timestamp=13 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196691 timestamp=11 data=whatever),(valid=1 label=196692 timestamp=11 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+M 7ff000388,4 hit hit 
+### Cache ###
+[Set:0] (valid=1 label=196692 timestamp=13 data=whatever),(valid=1 label=1073217564 timestamp=13 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196691 timestamp=11 data=whatever),(valid=1 label=196692 timestamp=11 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+L 7ff000388,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=196692 timestamp=13 data=whatever),(valid=1 label=1073217564 timestamp=13 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196691 timestamp=11 data=whatever),(valid=1 label=196692 timestamp=11 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+M 7ff000384,4 hit hit 
+### Cache ###
+[Set:0] (valid=1 label=196692 timestamp=13 data=whatever),(valid=1 label=1073217564 timestamp=13 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196691 timestamp=11 data=whatever),(valid=1 label=196692 timestamp=11 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+L 7ff000384,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=196692 timestamp=13 data=whatever),(valid=1 label=1073217564 timestamp=13 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196691 timestamp=11 data=whatever),(valid=1 label=196692 timestamp=11 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+S 7ff000388,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=196692 timestamp=13 data=whatever),(valid=1 label=1073217564 timestamp=13 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196691 timestamp=11 data=whatever),(valid=1 label=196692 timestamp=11 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+L 7ff000388,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=196692 timestamp=13 data=whatever),(valid=1 label=1073217564 timestamp=13 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196691 timestamp=11 data=whatever),(valid=1 label=196692 timestamp=11 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+L 7ff000384,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=196692 timestamp=13 data=whatever),(valid=1 label=1073217564 timestamp=13 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196691 timestamp=11 data=whatever),(valid=1 label=196692 timestamp=11 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+L 7ff000378,8 hit 
+### Cache ###
+[Set:0] (valid=1 label=196692 timestamp=13 data=whatever),(valid=1 label=1073217564 timestamp=13 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196691 timestamp=11 data=whatever),(valid=1 label=196692 timestamp=11 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+L 7ff000388,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=196692 timestamp=13 data=whatever),(valid=1 label=1073217564 timestamp=13 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196691 timestamp=11 data=whatever),(valid=1 label=196692 timestamp=11 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+L 600a30,4 miss eviction 
+### Cache ###
+[Set:0] (valid=1 label=196692 timestamp=13 data=whatever),(valid=1 label=1073217564 timestamp=13 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196689 timestamp=16 data=whatever),(valid=1 label=196692 timestamp=16 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+S 7ff00038c,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=196692 timestamp=13 data=whatever),(valid=1 label=1073217564 timestamp=13 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196689 timestamp=16 data=whatever),(valid=1 label=196692 timestamp=16 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+L 7ff000388,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=196692 timestamp=13 data=whatever),(valid=1 label=1073217564 timestamp=13 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196689 timestamp=16 data=whatever),(valid=1 label=196692 timestamp=16 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+L 7ff000370,8 miss eviction 
+### Cache ###
+[Set:0] (valid=1 label=196692 timestamp=13 data=whatever),(valid=1 label=1073217564 timestamp=13 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196689 timestamp=16 data=whatever),(valid=1 label=1073217563 timestamp=16 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+L 7ff000384,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=196692 timestamp=13 data=whatever),(valid=1 label=1073217564 timestamp=13 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196689 timestamp=16 data=whatever),(valid=1 label=1073217563 timestamp=16 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+L 7ff00038c,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=196692 timestamp=13 data=whatever),(valid=1 label=1073217564 timestamp=13 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196689 timestamp=16 data=whatever),(valid=1 label=1073217563 timestamp=16 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+S 600a64,4 miss eviction 
+### Cache ###
+[Set:0] (valid=1 label=196691 timestamp=18 data=whatever),(valid=1 label=1073217564 timestamp=18 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196689 timestamp=16 data=whatever),(valid=1 label=1073217563 timestamp=16 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+M 7ff000388,4 hit hit 
+### Cache ###
+[Set:0] (valid=1 label=196691 timestamp=18 data=whatever),(valid=1 label=1073217564 timestamp=18 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196689 timestamp=16 data=whatever),(valid=1 label=1073217563 timestamp=16 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+L 7ff000388,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=196691 timestamp=18 data=whatever),(valid=1 label=1073217564 timestamp=18 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196689 timestamp=16 data=whatever),(valid=1 label=1073217563 timestamp=16 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+L 7ff000384,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=196691 timestamp=18 data=whatever),(valid=1 label=1073217564 timestamp=18 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196689 timestamp=16 data=whatever),(valid=1 label=1073217563 timestamp=16 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+L 7ff000378,8 hit 
+### Cache ###
+[Set:0] (valid=1 label=196691 timestamp=18 data=whatever),(valid=1 label=1073217564 timestamp=18 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196689 timestamp=16 data=whatever),(valid=1 label=1073217563 timestamp=16 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+L 7ff000388,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=196691 timestamp=18 data=whatever),(valid=1 label=1073217564 timestamp=18 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196689 timestamp=16 data=whatever),(valid=1 label=1073217563 timestamp=16 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+L 600a34,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=196691 timestamp=18 data=whatever),(valid=1 label=1073217564 timestamp=18 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196689 timestamp=16 data=whatever),(valid=1 label=1073217563 timestamp=16 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+S 7ff00038c,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=196691 timestamp=18 data=whatever),(valid=1 label=1073217564 timestamp=18 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196689 timestamp=16 data=whatever),(valid=1 label=1073217563 timestamp=16 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+L 7ff000388,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=196691 timestamp=18 data=whatever),(valid=1 label=1073217564 timestamp=18 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196689 timestamp=16 data=whatever),(valid=1 label=1073217563 timestamp=16 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+L 7ff000370,8 hit 
+### Cache ###
+[Set:0] (valid=1 label=196691 timestamp=18 data=whatever),(valid=1 label=1073217564 timestamp=18 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196689 timestamp=16 data=whatever),(valid=1 label=1073217563 timestamp=16 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+L 7ff000384,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=196691 timestamp=18 data=whatever),(valid=1 label=1073217564 timestamp=18 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196689 timestamp=16 data=whatever),(valid=1 label=1073217563 timestamp=16 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+L 7ff00038c,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=196691 timestamp=18 data=whatever),(valid=1 label=1073217564 timestamp=18 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196689 timestamp=16 data=whatever),(valid=1 label=1073217563 timestamp=16 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+S 600a74,4 miss eviction 
+### Cache ###
+[Set:0] (valid=1 label=196691 timestamp=18 data=whatever),(valid=1 label=1073217564 timestamp=18 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196691 timestamp=19 data=whatever),(valid=1 label=1073217563 timestamp=19 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+M 7ff000388,4 hit hit 
+### Cache ###
+[Set:0] (valid=1 label=196691 timestamp=18 data=whatever),(valid=1 label=1073217564 timestamp=18 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196691 timestamp=19 data=whatever),(valid=1 label=1073217563 timestamp=19 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+L 7ff000388,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=196691 timestamp=18 data=whatever),(valid=1 label=1073217564 timestamp=18 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196691 timestamp=19 data=whatever),(valid=1 label=1073217563 timestamp=19 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+L 7ff000384,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=196691 timestamp=18 data=whatever),(valid=1 label=1073217564 timestamp=18 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196691 timestamp=19 data=whatever),(valid=1 label=1073217563 timestamp=19 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+L 7ff000378,8 hit 
+### Cache ###
+[Set:0] (valid=1 label=196691 timestamp=18 data=whatever),(valid=1 label=1073217564 timestamp=18 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196691 timestamp=19 data=whatever),(valid=1 label=1073217563 timestamp=19 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+L 7ff000388,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=196691 timestamp=18 data=whatever),(valid=1 label=1073217564 timestamp=18 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196691 timestamp=19 data=whatever),(valid=1 label=1073217563 timestamp=19 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=1 data=whatever),(valid=1 label=1073217563 timestamp=1 data=whatever),
+L 600a38,4 miss eviction 
+### Cache ###
+[Set:0] (valid=1 label=196691 timestamp=18 data=whatever),(valid=1 label=1073217564 timestamp=18 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196691 timestamp=19 data=whatever),(valid=1 label=1073217563 timestamp=19 data=whatever),
+[Set:3] (valid=1 label=196689 timestamp=20 data=whatever),(valid=1 label=1073217563 timestamp=20 data=whatever),
+S 7ff00038c,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=196691 timestamp=18 data=whatever),(valid=1 label=1073217564 timestamp=18 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196691 timestamp=19 data=whatever),(valid=1 label=1073217563 timestamp=19 data=whatever),
+[Set:3] (valid=1 label=196689 timestamp=20 data=whatever),(valid=1 label=1073217563 timestamp=20 data=whatever),
+L 7ff000388,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=196691 timestamp=18 data=whatever),(valid=1 label=1073217564 timestamp=18 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196691 timestamp=19 data=whatever),(valid=1 label=1073217563 timestamp=19 data=whatever),
+[Set:3] (valid=1 label=196689 timestamp=20 data=whatever),(valid=1 label=1073217563 timestamp=20 data=whatever),
+L 7ff000370,8 hit 
+### Cache ###
+[Set:0] (valid=1 label=196691 timestamp=18 data=whatever),(valid=1 label=1073217564 timestamp=18 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196691 timestamp=19 data=whatever),(valid=1 label=1073217563 timestamp=19 data=whatever),
+[Set:3] (valid=1 label=196689 timestamp=20 data=whatever),(valid=1 label=1073217563 timestamp=20 data=whatever),
+L 7ff000384,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=196691 timestamp=18 data=whatever),(valid=1 label=1073217564 timestamp=18 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196691 timestamp=19 data=whatever),(valid=1 label=1073217563 timestamp=19 data=whatever),
+[Set:3] (valid=1 label=196689 timestamp=20 data=whatever),(valid=1 label=1073217563 timestamp=20 data=whatever),
+L 7ff00038c,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=196691 timestamp=18 data=whatever),(valid=1 label=1073217564 timestamp=18 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196691 timestamp=19 data=whatever),(valid=1 label=1073217563 timestamp=19 data=whatever),
+[Set:3] (valid=1 label=196689 timestamp=20 data=whatever),(valid=1 label=1073217563 timestamp=20 data=whatever),
+S 600a84,4 miss eviction 
+### Cache ###
+[Set:0] (valid=1 label=196691 timestamp=18 data=whatever),(valid=1 label=196692 timestamp=18 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196691 timestamp=19 data=whatever),(valid=1 label=1073217563 timestamp=19 data=whatever),
+[Set:3] (valid=1 label=196689 timestamp=20 data=whatever),(valid=1 label=1073217563 timestamp=20 data=whatever),
+M 7ff000388,4 hit hit 
+### Cache ###
+[Set:0] (valid=1 label=196691 timestamp=18 data=whatever),(valid=1 label=196692 timestamp=18 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196691 timestamp=19 data=whatever),(valid=1 label=1073217563 timestamp=19 data=whatever),
+[Set:3] (valid=1 label=196689 timestamp=20 data=whatever),(valid=1 label=1073217563 timestamp=20 data=whatever),
+L 7ff000388,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=196691 timestamp=18 data=whatever),(valid=1 label=196692 timestamp=18 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196691 timestamp=19 data=whatever),(valid=1 label=1073217563 timestamp=19 data=whatever),
+[Set:3] (valid=1 label=196689 timestamp=20 data=whatever),(valid=1 label=1073217563 timestamp=20 data=whatever),
+L 7ff000384,4 miss eviction 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196692 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196691 timestamp=19 data=whatever),(valid=1 label=1073217563 timestamp=19 data=whatever),
+[Set:3] (valid=1 label=196689 timestamp=20 data=whatever),(valid=1 label=1073217563 timestamp=20 data=whatever),
+L 7ff000378,8 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196692 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196691 timestamp=19 data=whatever),(valid=1 label=1073217563 timestamp=19 data=whatever),
+[Set:3] (valid=1 label=196689 timestamp=20 data=whatever),(valid=1 label=1073217563 timestamp=20 data=whatever),
+L 7ff000388,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196692 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196691 timestamp=19 data=whatever),(valid=1 label=1073217563 timestamp=19 data=whatever),
+[Set:3] (valid=1 label=196689 timestamp=20 data=whatever),(valid=1 label=1073217563 timestamp=20 data=whatever),
+L 600a3c,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196692 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196691 timestamp=19 data=whatever),(valid=1 label=1073217563 timestamp=19 data=whatever),
+[Set:3] (valid=1 label=196689 timestamp=20 data=whatever),(valid=1 label=1073217563 timestamp=20 data=whatever),
+S 7ff00038c,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196692 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196691 timestamp=19 data=whatever),(valid=1 label=1073217563 timestamp=19 data=whatever),
+[Set:3] (valid=1 label=196689 timestamp=20 data=whatever),(valid=1 label=1073217563 timestamp=20 data=whatever),
+L 7ff000388,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196692 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196691 timestamp=19 data=whatever),(valid=1 label=1073217563 timestamp=19 data=whatever),
+[Set:3] (valid=1 label=196689 timestamp=20 data=whatever),(valid=1 label=1073217563 timestamp=20 data=whatever),
+L 7ff000370,8 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196692 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196691 timestamp=19 data=whatever),(valid=1 label=1073217563 timestamp=19 data=whatever),
+[Set:3] (valid=1 label=196689 timestamp=20 data=whatever),(valid=1 label=1073217563 timestamp=20 data=whatever),
+L 7ff000384,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196692 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196691 timestamp=19 data=whatever),(valid=1 label=1073217563 timestamp=19 data=whatever),
+[Set:3] (valid=1 label=196689 timestamp=20 data=whatever),(valid=1 label=1073217563 timestamp=20 data=whatever),
+L 7ff00038c,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196692 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196691 timestamp=19 data=whatever),(valid=1 label=1073217563 timestamp=19 data=whatever),
+[Set:3] (valid=1 label=196689 timestamp=20 data=whatever),(valid=1 label=1073217563 timestamp=20 data=whatever),
+S 600a94,4 miss eviction 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196692 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196691 timestamp=19 data=whatever),(valid=1 label=196692 timestamp=19 data=whatever),
+[Set:3] (valid=1 label=196689 timestamp=20 data=whatever),(valid=1 label=1073217563 timestamp=20 data=whatever),
+M 7ff000388,4 hit hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196692 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196691 timestamp=19 data=whatever),(valid=1 label=196692 timestamp=19 data=whatever),
+[Set:3] (valid=1 label=196689 timestamp=20 data=whatever),(valid=1 label=1073217563 timestamp=20 data=whatever),
+L 7ff000388,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196692 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196691 timestamp=19 data=whatever),(valid=1 label=196692 timestamp=19 data=whatever),
+[Set:3] (valid=1 label=196689 timestamp=20 data=whatever),(valid=1 label=1073217563 timestamp=20 data=whatever),
+M 7ff000384,4 hit hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196692 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196691 timestamp=19 data=whatever),(valid=1 label=196692 timestamp=19 data=whatever),
+[Set:3] (valid=1 label=196689 timestamp=20 data=whatever),(valid=1 label=1073217563 timestamp=20 data=whatever),
+L 7ff000384,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196692 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196691 timestamp=19 data=whatever),(valid=1 label=196692 timestamp=19 data=whatever),
+[Set:3] (valid=1 label=196689 timestamp=20 data=whatever),(valid=1 label=1073217563 timestamp=20 data=whatever),
+S 7ff000388,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196692 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196691 timestamp=19 data=whatever),(valid=1 label=196692 timestamp=19 data=whatever),
+[Set:3] (valid=1 label=196689 timestamp=20 data=whatever),(valid=1 label=1073217563 timestamp=20 data=whatever),
+L 7ff000388,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196692 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196691 timestamp=19 data=whatever),(valid=1 label=196692 timestamp=19 data=whatever),
+[Set:3] (valid=1 label=196689 timestamp=20 data=whatever),(valid=1 label=1073217563 timestamp=20 data=whatever),
+L 7ff000384,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196692 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196691 timestamp=19 data=whatever),(valid=1 label=196692 timestamp=19 data=whatever),
+[Set:3] (valid=1 label=196689 timestamp=20 data=whatever),(valid=1 label=1073217563 timestamp=20 data=whatever),
+L 7ff000378,8 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196692 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196691 timestamp=19 data=whatever),(valid=1 label=196692 timestamp=19 data=whatever),
+[Set:3] (valid=1 label=196689 timestamp=20 data=whatever),(valid=1 label=1073217563 timestamp=20 data=whatever),
+L 7ff000388,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196692 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196691 timestamp=19 data=whatever),(valid=1 label=196692 timestamp=19 data=whatever),
+[Set:3] (valid=1 label=196689 timestamp=20 data=whatever),(valid=1 label=1073217563 timestamp=20 data=whatever),
+L 600a40,4 miss eviction 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196691 timestamp=19 data=whatever),(valid=1 label=196692 timestamp=19 data=whatever),
+[Set:3] (valid=1 label=196689 timestamp=20 data=whatever),(valid=1 label=1073217563 timestamp=20 data=whatever),
+S 7ff00038c,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196691 timestamp=19 data=whatever),(valid=1 label=196692 timestamp=19 data=whatever),
+[Set:3] (valid=1 label=196689 timestamp=20 data=whatever),(valid=1 label=1073217563 timestamp=20 data=whatever),
+L 7ff000388,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=196691 timestamp=19 data=whatever),(valid=1 label=196692 timestamp=19 data=whatever),
+[Set:3] (valid=1 label=196689 timestamp=20 data=whatever),(valid=1 label=1073217563 timestamp=20 data=whatever),
+L 7ff000370,8 miss eviction 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196692 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=196689 timestamp=20 data=whatever),(valid=1 label=1073217563 timestamp=20 data=whatever),
+L 7ff000384,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196692 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=196689 timestamp=20 data=whatever),(valid=1 label=1073217563 timestamp=20 data=whatever),
+L 7ff00038c,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=6 data=whatever),(valid=1 label=196689 timestamp=6 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196692 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=196689 timestamp=20 data=whatever),(valid=1 label=1073217563 timestamp=20 data=whatever),
+S 600a68,4 miss eviction 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=196691 timestamp=26 data=whatever),(valid=1 label=196689 timestamp=26 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196692 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=196689 timestamp=20 data=whatever),(valid=1 label=1073217563 timestamp=20 data=whatever),
+M 7ff000388,4 miss hit eviction 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=196691 timestamp=26 data=whatever),(valid=1 label=1073217564 timestamp=26 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196692 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=196689 timestamp=20 data=whatever),(valid=1 label=1073217563 timestamp=20 data=whatever),
+L 7ff000388,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=196691 timestamp=26 data=whatever),(valid=1 label=1073217564 timestamp=26 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196692 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=196689 timestamp=20 data=whatever),(valid=1 label=1073217563 timestamp=20 data=whatever),
+L 7ff000384,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=196691 timestamp=26 data=whatever),(valid=1 label=1073217564 timestamp=26 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196692 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=196689 timestamp=20 data=whatever),(valid=1 label=1073217563 timestamp=20 data=whatever),
+L 7ff000378,8 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=196691 timestamp=26 data=whatever),(valid=1 label=1073217564 timestamp=26 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196692 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=196689 timestamp=20 data=whatever),(valid=1 label=1073217563 timestamp=20 data=whatever),
+L 7ff000388,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=196691 timestamp=26 data=whatever),(valid=1 label=1073217564 timestamp=26 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196692 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=196689 timestamp=20 data=whatever),(valid=1 label=1073217563 timestamp=20 data=whatever),
+L 600a44,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=196691 timestamp=26 data=whatever),(valid=1 label=1073217564 timestamp=26 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196692 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=196689 timestamp=20 data=whatever),(valid=1 label=1073217563 timestamp=20 data=whatever),
+S 7ff00038c,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=196691 timestamp=26 data=whatever),(valid=1 label=1073217564 timestamp=26 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196692 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=196689 timestamp=20 data=whatever),(valid=1 label=1073217563 timestamp=20 data=whatever),
+L 7ff000388,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=196691 timestamp=26 data=whatever),(valid=1 label=1073217564 timestamp=26 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196692 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=196689 timestamp=20 data=whatever),(valid=1 label=1073217563 timestamp=20 data=whatever),
+L 7ff000370,8 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=196691 timestamp=26 data=whatever),(valid=1 label=1073217564 timestamp=26 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196692 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=196689 timestamp=20 data=whatever),(valid=1 label=1073217563 timestamp=20 data=whatever),
+L 7ff000384,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=196691 timestamp=26 data=whatever),(valid=1 label=1073217564 timestamp=26 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196692 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=196689 timestamp=20 data=whatever),(valid=1 label=1073217563 timestamp=20 data=whatever),
+L 7ff00038c,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=196691 timestamp=26 data=whatever),(valid=1 label=1073217564 timestamp=26 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196692 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=196689 timestamp=20 data=whatever),(valid=1 label=1073217563 timestamp=20 data=whatever),
+S 600a78,4 miss eviction 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=196691 timestamp=26 data=whatever),(valid=1 label=1073217564 timestamp=26 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196692 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=196689 timestamp=20 data=whatever),(valid=1 label=196691 timestamp=20 data=whatever),
+M 7ff000388,4 hit hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=196691 timestamp=26 data=whatever),(valid=1 label=1073217564 timestamp=26 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196692 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=196689 timestamp=20 data=whatever),(valid=1 label=196691 timestamp=20 data=whatever),
+L 7ff000388,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=196691 timestamp=26 data=whatever),(valid=1 label=1073217564 timestamp=26 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196692 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=196689 timestamp=20 data=whatever),(valid=1 label=196691 timestamp=20 data=whatever),
+L 7ff000384,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=196691 timestamp=26 data=whatever),(valid=1 label=1073217564 timestamp=26 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196692 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=196689 timestamp=20 data=whatever),(valid=1 label=196691 timestamp=20 data=whatever),
+L 7ff000378,8 miss eviction 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=196691 timestamp=26 data=whatever),(valid=1 label=1073217564 timestamp=26 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196692 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=1073217563 timestamp=29 data=whatever),(valid=1 label=196691 timestamp=29 data=whatever),
+L 7ff000388,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=196691 timestamp=26 data=whatever),(valid=1 label=1073217564 timestamp=26 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196692 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=1073217563 timestamp=29 data=whatever),(valid=1 label=196691 timestamp=29 data=whatever),
+L 600a48,4 miss eviction 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=196690 timestamp=30 data=whatever),(valid=1 label=1073217564 timestamp=30 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196692 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=1073217563 timestamp=29 data=whatever),(valid=1 label=196691 timestamp=29 data=whatever),
+S 7ff00038c,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=196690 timestamp=30 data=whatever),(valid=1 label=1073217564 timestamp=30 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196692 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=1073217563 timestamp=29 data=whatever),(valid=1 label=196691 timestamp=29 data=whatever),
+L 7ff000388,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=196690 timestamp=30 data=whatever),(valid=1 label=1073217564 timestamp=30 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196692 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=1073217563 timestamp=29 data=whatever),(valid=1 label=196691 timestamp=29 data=whatever),
+L 7ff000370,8 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=196690 timestamp=30 data=whatever),(valid=1 label=1073217564 timestamp=30 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196692 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=1073217563 timestamp=29 data=whatever),(valid=1 label=196691 timestamp=29 data=whatever),
+L 7ff000384,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=196690 timestamp=30 data=whatever),(valid=1 label=1073217564 timestamp=30 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196692 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=1073217563 timestamp=29 data=whatever),(valid=1 label=196691 timestamp=29 data=whatever),
+L 7ff00038c,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=196690 timestamp=30 data=whatever),(valid=1 label=1073217564 timestamp=30 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196692 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=1073217563 timestamp=29 data=whatever),(valid=1 label=196691 timestamp=29 data=whatever),
+S 600a88,4 miss eviction 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=196690 timestamp=30 data=whatever),(valid=1 label=196692 timestamp=30 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196692 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=1073217563 timestamp=29 data=whatever),(valid=1 label=196691 timestamp=29 data=whatever),
+M 7ff000388,4 miss hit eviction 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=32 data=whatever),(valid=1 label=196692 timestamp=32 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196692 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=1073217563 timestamp=29 data=whatever),(valid=1 label=196691 timestamp=29 data=whatever),
+L 7ff000388,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=32 data=whatever),(valid=1 label=196692 timestamp=32 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196692 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=1073217563 timestamp=29 data=whatever),(valid=1 label=196691 timestamp=29 data=whatever),
+L 7ff000384,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=32 data=whatever),(valid=1 label=196692 timestamp=32 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196692 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=1073217563 timestamp=29 data=whatever),(valid=1 label=196691 timestamp=29 data=whatever),
+L 7ff000378,8 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=32 data=whatever),(valid=1 label=196692 timestamp=32 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196692 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=1073217563 timestamp=29 data=whatever),(valid=1 label=196691 timestamp=29 data=whatever),
+L 7ff000388,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=32 data=whatever),(valid=1 label=196692 timestamp=32 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196692 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=1073217563 timestamp=29 data=whatever),(valid=1 label=196691 timestamp=29 data=whatever),
+L 600a4c,4 miss eviction 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=32 data=whatever),(valid=1 label=196690 timestamp=32 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196692 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=1073217563 timestamp=29 data=whatever),(valid=1 label=196691 timestamp=29 data=whatever),
+S 7ff00038c,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=32 data=whatever),(valid=1 label=196690 timestamp=32 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196692 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=1073217563 timestamp=29 data=whatever),(valid=1 label=196691 timestamp=29 data=whatever),
+L 7ff000388,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=32 data=whatever),(valid=1 label=196690 timestamp=32 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196692 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=1073217563 timestamp=29 data=whatever),(valid=1 label=196691 timestamp=29 data=whatever),
+L 7ff000370,8 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=32 data=whatever),(valid=1 label=196690 timestamp=32 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196692 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=1073217563 timestamp=29 data=whatever),(valid=1 label=196691 timestamp=29 data=whatever),
+L 7ff000384,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=32 data=whatever),(valid=1 label=196690 timestamp=32 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196692 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=1073217563 timestamp=29 data=whatever),(valid=1 label=196691 timestamp=29 data=whatever),
+L 7ff00038c,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=32 data=whatever),(valid=1 label=196690 timestamp=32 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196692 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=1073217563 timestamp=29 data=whatever),(valid=1 label=196691 timestamp=29 data=whatever),
+S 600a98,4 miss eviction 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=32 data=whatever),(valid=1 label=196690 timestamp=32 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196692 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=1073217563 timestamp=29 data=whatever),(valid=1 label=196692 timestamp=29 data=whatever),
+M 7ff000388,4 hit hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=32 data=whatever),(valid=1 label=196690 timestamp=32 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196692 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=1073217563 timestamp=29 data=whatever),(valid=1 label=196692 timestamp=29 data=whatever),
+L 7ff000388,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=32 data=whatever),(valid=1 label=196690 timestamp=32 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196692 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=1073217563 timestamp=29 data=whatever),(valid=1 label=196692 timestamp=29 data=whatever),
+M 7ff000384,4 hit hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=32 data=whatever),(valid=1 label=196690 timestamp=32 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196692 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=1073217563 timestamp=29 data=whatever),(valid=1 label=196692 timestamp=29 data=whatever),
+L 7ff000384,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=32 data=whatever),(valid=1 label=196690 timestamp=32 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196692 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=1073217563 timestamp=29 data=whatever),(valid=1 label=196692 timestamp=29 data=whatever),
+S 7ff000388,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=32 data=whatever),(valid=1 label=196690 timestamp=32 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196692 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=1073217563 timestamp=29 data=whatever),(valid=1 label=196692 timestamp=29 data=whatever),
+L 7ff000388,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=32 data=whatever),(valid=1 label=196690 timestamp=32 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196692 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=1073217563 timestamp=29 data=whatever),(valid=1 label=196692 timestamp=29 data=whatever),
+L 7ff000384,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=32 data=whatever),(valid=1 label=196690 timestamp=32 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196692 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=1073217563 timestamp=29 data=whatever),(valid=1 label=196692 timestamp=29 data=whatever),
+L 7ff000378,8 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=32 data=whatever),(valid=1 label=196690 timestamp=32 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196692 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=1073217563 timestamp=29 data=whatever),(valid=1 label=196692 timestamp=29 data=whatever),
+L 7ff000388,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=32 data=whatever),(valid=1 label=196690 timestamp=32 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196692 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=1073217563 timestamp=29 data=whatever),(valid=1 label=196692 timestamp=29 data=whatever),
+L 600a50,4 miss eviction 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=32 data=whatever),(valid=1 label=196690 timestamp=32 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196690 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=1073217563 timestamp=29 data=whatever),(valid=1 label=196692 timestamp=29 data=whatever),
+S 7ff00038c,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=32 data=whatever),(valid=1 label=196690 timestamp=32 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196690 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=1073217563 timestamp=29 data=whatever),(valid=1 label=196692 timestamp=29 data=whatever),
+L 7ff000388,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=32 data=whatever),(valid=1 label=196690 timestamp=32 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196690 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=1073217563 timestamp=29 data=whatever),(valid=1 label=196692 timestamp=29 data=whatever),
+L 7ff000370,8 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=32 data=whatever),(valid=1 label=196690 timestamp=32 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196690 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=1073217563 timestamp=29 data=whatever),(valid=1 label=196692 timestamp=29 data=whatever),
+L 7ff000384,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=32 data=whatever),(valid=1 label=196690 timestamp=32 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196690 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=1073217563 timestamp=29 data=whatever),(valid=1 label=196692 timestamp=29 data=whatever),
+L 7ff00038c,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=1073217564 timestamp=32 data=whatever),(valid=1 label=196690 timestamp=32 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196690 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=1073217563 timestamp=29 data=whatever),(valid=1 label=196692 timestamp=29 data=whatever),
+S 600a6c,4 miss eviction 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=196691 timestamp=36 data=whatever),(valid=1 label=196690 timestamp=36 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196690 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=1073217563 timestamp=29 data=whatever),(valid=1 label=196692 timestamp=29 data=whatever),
+M 7ff000388,4 miss hit eviction 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=196691 timestamp=36 data=whatever),(valid=1 label=1073217564 timestamp=36 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196690 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=1073217563 timestamp=29 data=whatever),(valid=1 label=196692 timestamp=29 data=whatever),
+L 7ff000388,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=196691 timestamp=36 data=whatever),(valid=1 label=1073217564 timestamp=36 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196690 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=1073217563 timestamp=29 data=whatever),(valid=1 label=196692 timestamp=29 data=whatever),
+L 7ff000384,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=196691 timestamp=36 data=whatever),(valid=1 label=1073217564 timestamp=36 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196690 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=1073217563 timestamp=29 data=whatever),(valid=1 label=196692 timestamp=29 data=whatever),
+L 7ff000378,8 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=196691 timestamp=36 data=whatever),(valid=1 label=1073217564 timestamp=36 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196690 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=1073217563 timestamp=29 data=whatever),(valid=1 label=196692 timestamp=29 data=whatever),
+L 7ff000388,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=196691 timestamp=36 data=whatever),(valid=1 label=1073217564 timestamp=36 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196690 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=1073217563 timestamp=29 data=whatever),(valid=1 label=196692 timestamp=29 data=whatever),
+L 600a54,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=196691 timestamp=36 data=whatever),(valid=1 label=1073217564 timestamp=36 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196690 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=1073217563 timestamp=29 data=whatever),(valid=1 label=196692 timestamp=29 data=whatever),
+S 7ff00038c,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=196691 timestamp=36 data=whatever),(valid=1 label=1073217564 timestamp=36 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196690 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=1073217563 timestamp=29 data=whatever),(valid=1 label=196692 timestamp=29 data=whatever),
+L 7ff000388,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=196691 timestamp=36 data=whatever),(valid=1 label=1073217564 timestamp=36 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196690 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=1073217563 timestamp=29 data=whatever),(valid=1 label=196692 timestamp=29 data=whatever),
+L 7ff000370,8 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=196691 timestamp=36 data=whatever),(valid=1 label=1073217564 timestamp=36 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196690 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=1073217563 timestamp=29 data=whatever),(valid=1 label=196692 timestamp=29 data=whatever),
+L 7ff000384,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=196691 timestamp=36 data=whatever),(valid=1 label=1073217564 timestamp=36 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196690 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=1073217563 timestamp=29 data=whatever),(valid=1 label=196692 timestamp=29 data=whatever),
+L 7ff00038c,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=196691 timestamp=36 data=whatever),(valid=1 label=1073217564 timestamp=36 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196690 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=1073217563 timestamp=29 data=whatever),(valid=1 label=196692 timestamp=29 data=whatever),
+S 600a7c,4 miss eviction 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=196691 timestamp=36 data=whatever),(valid=1 label=1073217564 timestamp=36 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196690 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=196691 timestamp=38 data=whatever),(valid=1 label=196692 timestamp=38 data=whatever),
+M 7ff000388,4 hit hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=196691 timestamp=36 data=whatever),(valid=1 label=1073217564 timestamp=36 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196690 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=196691 timestamp=38 data=whatever),(valid=1 label=196692 timestamp=38 data=whatever),
+L 7ff000388,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=196691 timestamp=36 data=whatever),(valid=1 label=1073217564 timestamp=36 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196690 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=196691 timestamp=38 data=whatever),(valid=1 label=196692 timestamp=38 data=whatever),
+L 7ff000384,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=196691 timestamp=36 data=whatever),(valid=1 label=1073217564 timestamp=36 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196690 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=196691 timestamp=38 data=whatever),(valid=1 label=196692 timestamp=38 data=whatever),
+L 7ff000378,8 miss eviction 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=196691 timestamp=36 data=whatever),(valid=1 label=1073217564 timestamp=36 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196690 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=196691 timestamp=38 data=whatever),(valid=1 label=1073217563 timestamp=38 data=whatever),
+L 7ff000388,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=196691 timestamp=36 data=whatever),(valid=1 label=1073217564 timestamp=36 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196690 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=196691 timestamp=38 data=whatever),(valid=1 label=1073217563 timestamp=38 data=whatever),
+L 600a58,4 miss eviction 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=196691 timestamp=36 data=whatever),(valid=1 label=1073217564 timestamp=36 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196690 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=196690 timestamp=40 data=whatever),(valid=1 label=1073217563 timestamp=40 data=whatever),
+S 7ff00038c,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=196691 timestamp=36 data=whatever),(valid=1 label=1073217564 timestamp=36 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196690 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=196690 timestamp=40 data=whatever),(valid=1 label=1073217563 timestamp=40 data=whatever),
+L 7ff000388,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=196691 timestamp=36 data=whatever),(valid=1 label=1073217564 timestamp=36 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196690 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=196690 timestamp=40 data=whatever),(valid=1 label=1073217563 timestamp=40 data=whatever),
+L 7ff000370,8 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=196691 timestamp=36 data=whatever),(valid=1 label=1073217564 timestamp=36 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196690 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=196690 timestamp=40 data=whatever),(valid=1 label=1073217563 timestamp=40 data=whatever),
+L 7ff000384,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=196691 timestamp=36 data=whatever),(valid=1 label=1073217564 timestamp=36 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196690 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=196690 timestamp=40 data=whatever),(valid=1 label=1073217563 timestamp=40 data=whatever),
+L 7ff00038c,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=196691 timestamp=36 data=whatever),(valid=1 label=1073217564 timestamp=36 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196690 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=196690 timestamp=40 data=whatever),(valid=1 label=1073217563 timestamp=40 data=whatever),
+S 600a8c,4 miss eviction 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=196692 timestamp=41 data=whatever),(valid=1 label=1073217564 timestamp=41 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196690 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=196690 timestamp=40 data=whatever),(valid=1 label=1073217563 timestamp=40 data=whatever),
+M 7ff000388,4 hit hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=196692 timestamp=41 data=whatever),(valid=1 label=1073217564 timestamp=41 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196690 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=196690 timestamp=40 data=whatever),(valid=1 label=1073217563 timestamp=40 data=whatever),
+L 7ff000388,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=196692 timestamp=41 data=whatever),(valid=1 label=1073217564 timestamp=41 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196690 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=196690 timestamp=40 data=whatever),(valid=1 label=1073217563 timestamp=40 data=whatever),
+L 7ff000384,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=196692 timestamp=41 data=whatever),(valid=1 label=1073217564 timestamp=41 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196690 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=196690 timestamp=40 data=whatever),(valid=1 label=1073217563 timestamp=40 data=whatever),
+L 7ff000378,8 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=196692 timestamp=41 data=whatever),(valid=1 label=1073217564 timestamp=41 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196690 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=196690 timestamp=40 data=whatever),(valid=1 label=1073217563 timestamp=40 data=whatever),
+L 7ff000388,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=196692 timestamp=41 data=whatever),(valid=1 label=1073217564 timestamp=41 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196690 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=196690 timestamp=40 data=whatever),(valid=1 label=1073217563 timestamp=40 data=whatever),
+L 600a5c,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=196692 timestamp=41 data=whatever),(valid=1 label=1073217564 timestamp=41 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196690 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=196690 timestamp=40 data=whatever),(valid=1 label=1073217563 timestamp=40 data=whatever),
+S 7ff00038c,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=196692 timestamp=41 data=whatever),(valid=1 label=1073217564 timestamp=41 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196690 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=196690 timestamp=40 data=whatever),(valid=1 label=1073217563 timestamp=40 data=whatever),
+L 7ff000388,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=196692 timestamp=41 data=whatever),(valid=1 label=1073217564 timestamp=41 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196690 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=196690 timestamp=40 data=whatever),(valid=1 label=1073217563 timestamp=40 data=whatever),
+L 7ff000370,8 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=196692 timestamp=41 data=whatever),(valid=1 label=1073217564 timestamp=41 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196690 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=196690 timestamp=40 data=whatever),(valid=1 label=1073217563 timestamp=40 data=whatever),
+L 7ff000384,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=196692 timestamp=41 data=whatever),(valid=1 label=1073217564 timestamp=41 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196690 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=196690 timestamp=40 data=whatever),(valid=1 label=1073217563 timestamp=40 data=whatever),
+L 7ff00038c,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=196692 timestamp=41 data=whatever),(valid=1 label=1073217564 timestamp=41 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196690 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=196690 timestamp=40 data=whatever),(valid=1 label=1073217563 timestamp=40 data=whatever),
+S 600a9c,4 miss eviction 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=196692 timestamp=41 data=whatever),(valid=1 label=1073217564 timestamp=41 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196690 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=196690 timestamp=40 data=whatever),(valid=1 label=196692 timestamp=40 data=whatever),
+M 7ff000388,4 hit hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=196692 timestamp=41 data=whatever),(valid=1 label=1073217564 timestamp=41 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196690 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=196690 timestamp=40 data=whatever),(valid=1 label=196692 timestamp=40 data=whatever),
+L 7ff000388,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=196692 timestamp=41 data=whatever),(valid=1 label=1073217564 timestamp=41 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196690 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=196690 timestamp=40 data=whatever),(valid=1 label=196692 timestamp=40 data=whatever),
+M 7ff000384,4 hit hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=196692 timestamp=41 data=whatever),(valid=1 label=1073217564 timestamp=41 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196690 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=196690 timestamp=40 data=whatever),(valid=1 label=196692 timestamp=40 data=whatever),
+L 7ff000384,4 hit 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=196692 timestamp=41 data=whatever),(valid=1 label=1073217564 timestamp=41 data=whatever),
+[Set:2] (valid=1 label=1073217563 timestamp=25 data=whatever),(valid=1 label=196690 timestamp=25 data=whatever),
+[Set:3] (valid=1 label=196690 timestamp=40 data=whatever),(valid=1 label=196692 timestamp=40 data=whatever),
+L 7ff000390,8 miss eviction 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=196692 timestamp=41 data=whatever),(valid=1 label=1073217564 timestamp=41 data=whatever),
+[Set:2] (valid=1 label=1073217564 timestamp=43 data=whatever),(valid=1 label=196690 timestamp=43 data=whatever),
+[Set:3] (valid=1 label=196690 timestamp=40 data=whatever),(valid=1 label=196692 timestamp=40 data=whatever),
+L 7ff000398,8 miss eviction 
+### Cache ###
+[Set:0] (valid=1 label=1073217564 timestamp=22 data=whatever),(valid=1 label=196690 timestamp=22 data=whatever),
+[Set:1] (valid=1 label=196692 timestamp=41 data=whatever),(valid=1 label=1073217564 timestamp=41 data=whatever),
+[Set:2] (valid=1 label=1073217564 timestamp=43 data=whatever),(valid=1 label=196690 timestamp=43 data=whatever),
+[Set:3] (valid=1 label=1073217564 timestamp=44 data=whatever),(valid=1 label=196692 timestamp=44 data=whatever),
+L 600aa0,1 miss eviction 
+hits:192 misses:46 evictions:38
