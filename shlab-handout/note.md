@@ -1,0 +1,15 @@
+- command
+    - the first word is build-in or exe file, remaining words are arguments
+    - build-in, exe in current process(unless &)
+    - exe file, forks a child then loads and runs(job, the child processes of a single command)
+- job control
+    - move between background and foreground
+    - change process state
+- tsh
+    - SIGINT (SIGTSTP) signal to be sent to the current fore-ground job and its descendents
+    - "5" denotes PID, "%5" denotes JID
+    - support "quit, jobs, bg, fg"
+    - reap all zombie (If any job terminates because it receives a signal, print the job’s PID and the offending signal)
+- check
+    - ref
+    - .ph -h
